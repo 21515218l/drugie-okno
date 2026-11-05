@@ -9,5 +9,7 @@
         Height="420"
         WindowStartupLocation="CenterScreen"
         Background="#1E293B">
-    <TextBlock Text="Warsztat" HorizontalAlignment="Center" />
+    <StackPanel Spacing="12" Margin="24">
+        <TextBlock Text="Warsztat" HorizontalAlignment="Center" />
+    </StackPanel>
 </Window>
