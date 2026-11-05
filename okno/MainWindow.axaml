@@ -16,5 +16,6 @@
         <CheckBox Content="Zadanie sprawdzone w git diff" />
         <Slider Minimum="0" Maximum="100" Value="75" />
         <ProgressBar Minimum="0" Maximum="100" Value="75" Height="14" />
+        <Button Content="Zapisz zmiany" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>

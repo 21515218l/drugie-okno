@@ -12,3 +12,4 @@
 12. Prośba: Dodaj pole wyboru CheckBox z podpisem Zadanie sprawdzone w git diff | Diff: 1 linijka (1 dodana) | Rozumiem: 1/1 linijka
 13. Prośba: Dodaj suwak Slider o zakresie 0-100 ustawiony na 75 | Diff: 1 linijka (1 dodana) | Rozumiem: 1/1 linijka
 14. Prośba: Dodaj pasek postępu ProgressBar pokazujący 75% | Diff: 1 linijka (1 dodana) | Rozumiem: 1/1 linijka
+15. Prośba: Dodaj wyśrodkowany przycisk Button z napisem Zapisz zmiany | Diff: 1 linijka (1 dodana) | Rozumiem: 1/1 linijka
