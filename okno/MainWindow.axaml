@@ -6,6 +6,7 @@
         x:Class="okno.MainWindow"
         Title="Warsztat - Zadanie 2.3"
         Width="480"
-        Height="420">
+        Height="420"
+        WindowStartupLocation="CenterScreen">
     <TextBlock Text="Warsztat" HorizontalAlignment="Center" />
 </Window>
