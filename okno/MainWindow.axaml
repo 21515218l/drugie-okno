@@ -13,5 +13,6 @@
         <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="28" FontWeight="Bold" />
         <TextBlock Text="Okno zbudowane z agentem" HorizontalAlignment="Center" Foreground="#94A3B8" />
         <TextBox Watermark="Wpisz notatkę do warsztatu..." />
+        <CheckBox Content="Zadanie sprawdzone w git diff" />
     </StackPanel>
 </Window>
